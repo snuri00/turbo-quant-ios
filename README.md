@@ -1,6 +1,6 @@
 # TurboQuant iOS
 
-Native iOS/macOS framework implementing Google's TurboQuant KV cache compression for on-device LLM inference. Metal GPU acceleration with Apple Neural Engine support.
+Native iOS/macOS framework implementing TurboQuant KV cache compression for on-device LLM inference. Metal GPU acceleration with Apple Neural Engine support.
 
 Based on three research papers:
 - TurboQuant (arXiv:2504.19874) - Two-stage vector quantization
