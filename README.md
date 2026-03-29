@@ -26,14 +26,6 @@ C Bridge                  -- Low-level compute primitives
 | iPad     | Metal 3 | 16-core | iPadOS 16+ |
 | Mac      | Metal   | 16-core | macOS 13+ |
 
-## Memory Budget on iPhone
-
-| iPhone | RAM | Model | TurboQuant Context |
-|--------|-----|-------|--------------------|
-| 15     | 6 GB | Llama-3.2-3B Q4 | ~8K tokens |
-| 15 Pro | 8 GB | Llama-3.1-8B Q2 | ~4K tokens |
-| 16 Pro | 8 GB | Llama-3.1-8B Q3 | ~6K tokens |
-
 Without TurboQuant, context lengths are 2-4x shorter on the same hardware.
 
 ## Installation
